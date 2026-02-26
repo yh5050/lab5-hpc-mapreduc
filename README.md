@@ -1,2 +1,2 @@
-# big-data-lab-5
+# lab5-hpc-mapreduc
 shopping list data
